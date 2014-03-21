@@ -10,6 +10,7 @@
       ./hardware-configuration.nix
       ./xmonad.nix
       ./hostname.nix
+      ./utilities.nix
     ];
 
   # Use the GRUB 2 boot loader.
