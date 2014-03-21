@@ -5,6 +5,7 @@
     wine
     dmenu
     scrot
+    xlibs.xmessage
     haskellPackages.xmobar
     haskellPackages.xmonad
     haskellPackages.xmonadContrib
