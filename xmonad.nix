@@ -5,7 +5,11 @@
     wine
     dmenu
     scrot
+    # xmonad needs xmessage to communicate with xmobar
     xlibs.xmessage
+    # xmonad also needs ghc to compile itself
+    haskellPackages.haskellPlatform
+    haskellPackages.haskellPlatform.ghc
     haskellPackages.xmobar
     haskellPackages.xmonad
     haskellPackages.xmonadContrib
